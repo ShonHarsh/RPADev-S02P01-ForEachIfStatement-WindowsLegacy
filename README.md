@@ -50,7 +50,7 @@ Clone the project to develop or change it.
 
 [UiPath Studio](https://www.uipath.com/product/studio)
 
-[My Website](https://shonharsh.github.io/curriculum-vitae/index.html)
+[My Website](https://shonharsh.github.io/curriculum-vitae/index.html) - Errors, spelling fixes and comments are very welcome!
 
 
 
