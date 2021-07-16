@@ -1,12 +1,10 @@
 # S02P01 For Each & If Statement
 
-This project my solution in **C#** to the For Each & If Statement practice found in section 02 practice 01.
-
-
+This project my solution in **C#** to the For Each & If Statement practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
-After making a pull request or downloading the project, open the Main.xaml.  The robot can be run in the with the play button in the ribbon and the result can be seen in output pane.
+After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run in the with the play button in the ribbon and the result can be seen in output pane.
 
 ### Details
 
@@ -16,23 +14,23 @@ Section: 02 Variables, Data Types And Control Flow In Studio
 
 Practice: For Each & If Statement
 
-RPADev-S02P01-ForEachIfStatement
+File Path & Repository Name: RPADev-S02P01-ForEachIfStatement
 
 ### RPA Developer Foundation Sections
 
-01 Get Started With RPA Development
-02 Variables, Data Types And Control Flow In Studio
-03 Data Manipulation In Studio
-04 Excel And Data Tables With Studio
-05 UI Automation With Studio
-06 Selectors In Studio
-07 Project Organization In Studio
-08 Error And Exception Handling In Studio
-09 Debugging In Studio
-10 PDF Automation In Studio
-11 Email Automation With Studio
-12 Orchestrator For RPA Developers
-13 Robotic Enterprise Framework Overview
+1. Get Started With RPA Development
+2. Variables, Data Types And Control Flow In Studio
+3. Data Manipulation In Studio
+4. Excel And Data Tables With Studio
+5. UI Automation With Studio
+6. Selectors In Studio
+7. Project Organization In Studio
+8. Error And Exception Handling In Studio
+9. Debugging In Studio
+10. PDF Automation In Studio
+11. Email Automation With Studio
+12. Orchestrator For RPA Developers
+13. Robotic Enterprise Framework Overview
 
 ### Requirements
 
@@ -49,8 +47,6 @@ Clone the project to develop or change it.
 [UiPath: Automation Platform](https://www.uipath.com/)
 
 [UiPath Studio](https://www.uipath.com/product/studio)
-
-[My GitHub](https://github.com/ShonHarsh)
 
 [My Website](https://shonharsh.github.io/curriculum-vitae/index.html)
 
