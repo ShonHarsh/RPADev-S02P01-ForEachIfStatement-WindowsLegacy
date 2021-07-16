@@ -1,20 +1,22 @@
 # S02P01 For Each & If Statement
 
-This project my solution in **C#** to the For Each & If Statement practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the For Each & If Statement practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
-After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run in the with the play button in the ribbon and the result can be seen in output pane.
+After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
 ### Details
 
-Course: UiPath - RPA Developer Foundation
+**Course:** UiPath - RPA Developer Foundation
 
-Section: 02 Variables, Data Types And Control Flow In Studio
+**Section:** 02 Variables, Data Types And Control Flow In Studio
 
-Practice: For Each & If Statement
+**Practice:** For Each & If Statement
 
-File Path & Repository Name: RPADev-S02P01-ForEachIfStatement
+**Repository Name:** RPADev-S02P01-ForEachIfStatement
+
+**GitHub:** https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement
 
 ### RPA Developer Foundation Sections
 
@@ -36,7 +38,7 @@ File Path & Repository Name: RPADev-S02P01-ForEachIfStatement
 
 [UiPath Studio](https://www.uipath.com/product/studio) is required to run the robot.
 
-### GIT Notes
+### Git Notes
 
 Clone the project to develop or change it.
 
