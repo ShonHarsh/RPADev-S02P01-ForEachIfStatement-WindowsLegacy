@@ -18,10 +18,12 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 ### Sample Output
 
+```
 07/16/2021 14:07:25 => [Debug] Execution started for project: RPADev-S02P01-ForEachIfStatement
 07/16/2021 14:07:26 => [Info] RPADev-S02P01-ForEachIfStatement execution started
 07/16/2021 14:07:28 => [Debug] The smallest value is: 2. The larges value is: 9.
 07/16/2021 14:07:28 => [Info] RPADev-S02P01-ForEachIfStatement execution ended in: 00:00:01
+```
 
 ### RPA Developer Foundation Sections
 
