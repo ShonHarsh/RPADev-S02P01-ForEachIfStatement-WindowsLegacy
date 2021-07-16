@@ -1,3 +1,5 @@
+![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
+
 # S02P01 For Each & If Statement
 
 This project is my solution in **C#** to the **For Each & If Statement** practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
