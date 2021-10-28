@@ -8,6 +8,14 @@ This project is my solution in **C#** to the **For Each & If Statement** practic
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+### PRACTICE REQUIREMENTS
+
+###### **Find the smallest and biggest numbers in an Array**
+
+Use For Each, Assign and If Statements to find the minimum and maximum number in an array of Int32 elements and print it.
+
+**Note**: You can instantiate the Array with {7, 5, 2, 4, 3, 9} or with your own values, as long as they are integers.
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
